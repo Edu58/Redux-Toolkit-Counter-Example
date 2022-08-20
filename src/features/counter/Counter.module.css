@@ -1,0 +1,18 @@
+.container  {
+    margin-top: 20%;
+}
+
+.container button {
+    background-color: blue;
+    padding: 1rem;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    color: #FFF;
+    font-size: medium;
+}
+
+.container span {
+    margin: 0 2rem;
+    font-size: 2rem;
+}
